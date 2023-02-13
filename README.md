@@ -5,9 +5,9 @@
 > + Second , Press "GENERATE" button to get your generated password .
 > + that's it !
 
-> + standard mode : 8  charachter
-> + extra mode    : 12 charachter
-> + super mode    : 20 charachter
+> + standard mode : 8  character 
+> + extra mode    : 12 character 
+> + super mode    : 20 character 
 
 > ### ![This is an image](https://github.com/kiana-jahanshid/Random-Password-Generator/blob/main/pics/pass_super.png)
 
