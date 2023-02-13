@@ -9,4 +9,10 @@
 > + extra mode    : 12 charachter
 > + super mode    : 20 charachter
 
-> ## ![This is an image](https://github.com/kiana-jahanshid/Random-Password-Generator/blob/main/pass.png)
+> ### ![This is an image](https://github.com/kiana-jahanshid/Random-Password-Generator/blob/main/pics/pass_super.png)
+
+> ### ![This is an image](https://github.com/kiana-jahanshid/Random-Password-Generator/blob/main/pics/pass_extra.png)
+
+> ### ![This is an image](https://github.com/kiana-jahanshid/Random-Password-Generator/blob/main/pics/pass_standard.png)
+
+
